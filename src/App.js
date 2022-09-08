@@ -52,7 +52,7 @@ function App() {
 
           <div className="shadow rounded wetherResultBox">
             <img className="weathorIcon"
-              src="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png" alt="image" />
+              src="https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png" alt="something" />
 
             <h5 className="weathorCity">
               {data?.name}
